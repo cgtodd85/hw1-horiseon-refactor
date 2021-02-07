@@ -23,9 +23,8 @@ https://cgtodd85.github.io/hw1-horiseon-refactor/
 
 Links in the nav should take you to more information lower down on the page. Screenshot of final website:
 
-```md
+
 ![final site](assets/images/01-html-css-git-homework-demo.png)
-```
 
 It should look no different than it did prior to my code refactor.
 
