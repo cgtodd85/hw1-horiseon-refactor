@@ -7,6 +7,10 @@ This project improves the accessibility and logical order of the HTML for the cl
 
 I cleaned up tags from taking up unecessary space on multiple lines such as list items and parahraphs.
 
+I removed the double redundant styling for seo span.
+
+Changed div with class "header" to just a header tag, and updated CSS styles with class .header to style for the header tag instead.
+
 
 Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
 
